@@ -6,6 +6,8 @@ Enlace a la presentación en vídeo -> https://drive.google.com/file/d/1st9S05FU
 
 Enlace al proyecto en Colab -> https://colab.research.google.com/github/pepe36lp/CursoIngAI/blob/main/PredPreciosCoches.ipynb
 
+.CSV de vehículos para pruebas añadido en el repositorio
+
 ## Descripción del proyecto
 
 # Predictor de Precios de Coches de Segunda Mano
